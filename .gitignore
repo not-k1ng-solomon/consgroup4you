@@ -1,0 +1,11 @@
+# Project exclude paths
+#/node_modules/
+/.idea/
+/public/
+/db.php
+/php/
+/config.php
+/mail.php
+/.htaccess
+/robots.txt
+/info/
